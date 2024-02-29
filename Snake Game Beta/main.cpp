@@ -6,6 +6,8 @@
 #define UNICODE
 #endif // UNICODE
 
+// new change here!
+
 #include<windows.h>
 #include"resource.h"
 
